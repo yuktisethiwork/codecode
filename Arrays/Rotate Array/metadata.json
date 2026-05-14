@@ -5,8 +5,8 @@
   "language": "python3",
   "patterns": [],
   "tags": [],
-  "url": "https://leetcode.com/problems/rotate-array/submissions/2003229240/",
-  "solvedAt": "2026-05-14T18:20:02.395Z",
+  "url": "https://leetcode.com/problems/rotate-array/submissions/2003230618/",
+  "solvedAt": "2026-05-14T18:21:37.802Z",
   "approaches": [
     {
       "name": "2 pointer approach to reverse the array",
@@ -19,7 +19,13 @@
       "time": null,
       "space": null,
       "folder": "solution"
+    },
+    {
+      "name": "Python list concatenation syntax",
+      "time": "O(n)",
+      "space": "O(n)",
+      "folder": "python_list_concatenation_syntax"
     }
   ],
-  "keyIdea": "2 pointer technique to reverse the array."
+  "keyIdea": "python list slicing"
 }
