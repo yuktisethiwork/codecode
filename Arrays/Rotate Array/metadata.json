@@ -5,14 +5,20 @@
   "language": "python3",
   "patterns": [],
   "tags": [],
-  "url": "https://leetcode.com/problems/rotate-array/submissions/2003226359/",
-  "solvedAt": "2026-05-14T18:16:47.295Z",
+  "url": "https://leetcode.com/problems/rotate-array/submissions/2003229240/",
+  "solvedAt": "2026-05-14T18:20:02.395Z",
   "approaches": [
     {
       "name": "2 pointer approach to reverse the array",
       "time": null,
       "space": null,
       "folder": "2_pointer_approach_to_reverse_the_array"
+    },
+    {
+      "name": "Solution",
+      "time": null,
+      "space": null,
+      "folder": "solution"
     }
   ],
   "keyIdea": "2 pointer technique to reverse the array."
