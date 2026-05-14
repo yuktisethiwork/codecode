@@ -1,0 +1,19 @@
+{
+  "title": "Rotate Array",
+  "platform": "leetcode",
+  "difficulty": "Unknown",
+  "language": "python3",
+  "patterns": [],
+  "tags": [],
+  "url": "https://leetcode.com/problems/rotate-array/submissions/2003226359/",
+  "solvedAt": "2026-05-14T18:16:47.295Z",
+  "approaches": [
+    {
+      "name": "2 pointer approach to reverse the array",
+      "time": null,
+      "space": null,
+      "folder": "2_pointer_approach_to_reverse_the_array"
+    }
+  ],
+  "keyIdea": "2 pointer technique to reverse the array."
+}
