@@ -1,0 +1,27 @@
+{
+  "title": "189. Rotate Array",
+  "platform": "leetcode",
+  "difficulty": "Medium",
+  "language": "python3",
+  "patterns": [
+    "Array",
+    "Math",
+    "Two Pointers"
+  ],
+  "tags": [
+    "Array",
+    "Math",
+    "Two Pointers"
+  ],
+  "url": "https://leetcode.com/problems/rotate-array/",
+  "solvedAt": "2026-05-15T10:25:59.641Z",
+  "approaches": [
+    {
+      "name": "Bruteforce single element shift",
+      "time": "O(n*k)",
+      "space": "O(1)",
+      "folder": "bruteforce_single_element_shift"
+    }
+  ],
+  "keyIdea": "bruteforce single shift"
+}
