@@ -14,14 +14,20 @@
     "Two Pointers"
   ],
   "url": "https://leetcode.com/problems/rotate-array/",
-  "solvedAt": "2026-05-15T10:25:59.641Z",
+  "solvedAt": "2026-05-15T10:36:30.322Z",
   "approaches": [
     {
       "name": "Bruteforce single element shift",
       "time": "O(n*k)",
       "space": "O(1)",
       "folder": "bruteforce_single_element_shift"
+    },
+    {
+      "name": "Using extra space brute",
+      "time": "O(n)",
+      "space": "O(n)",
+      "folder": "using_extra_space_brute"
     }
   ],
-  "keyIdea": "bruteforce single shift"
+  "keyIdea": "Using extra space brute"
 }
