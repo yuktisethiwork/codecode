@@ -13,8 +13,8 @@
     "Math",
     "Two Pointers"
   ],
-  "url": "https://leetcode.com/problems/rotate-array/",
-  "solvedAt": "2026-05-15T10:41:30.633Z",
+  "url": "https://leetcode.com/problems/rotate-array/submissions/2003888527/",
+  "solvedAt": "2026-05-15T15:08:25.234Z",
   "approaches": [
     {
       "name": "Bruteforce single element shift",
@@ -33,7 +33,13 @@
       "time": "O(n*k)",
       "space": "O(1)",
       "folder": "using_python_pop_and_insert_brute"
+    },
+    {
+      "name": "Cyclic replacement (advanced)",
+      "time": null,
+      "space": null,
+      "folder": "cyclic_replacement_(advanced)"
     }
   ],
-  "keyIdea": "Using extra space brute"
+  "keyIdea": "Cyclic replacement"
 }
