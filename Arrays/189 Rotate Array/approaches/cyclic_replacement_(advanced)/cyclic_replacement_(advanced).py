@@ -1,0 +1,27 @@
+# Problem: 189. Rotate Array
+# Approach: Cyclic replacement (advanced)
+# Language: python3
+# Time: O(n)
+# Space: O(1)
+
+class Solution:
+    def rotate(self, nums: List[int], k: int) -> None:
+        """
+        Do not return anything, modify nums in-place instead.
+        """
+        start=0
+        count=0
+        n=len(nums)
+        k=k%n
+        while count<n:
+            current=start
+            while True:
+                next_idx = (current + k) % n
+                nums[next_idx] , nums[start] = nums[start], nums[next_idx]
+                current=next_idx
+                count+=1
+                if current  == start :
+                    break
+
+            start+=1 
+        return 

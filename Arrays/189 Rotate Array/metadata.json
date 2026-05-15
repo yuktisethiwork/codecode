@@ -13,8 +13,8 @@
     "Math",
     "Two Pointers"
   ],
-  "url": "https://leetcode.com/problems/rotate-array/submissions/2003888527/",
-  "solvedAt": "2026-05-15T15:08:25.234Z",
+  "url": "https://leetcode.com/problems/rotate-array/submissions/2003970844/",
+  "solvedAt": "2026-05-15T17:02:10.699Z",
   "approaches": [
     {
       "name": "Bruteforce single element shift",
@@ -36,10 +36,10 @@
     },
     {
       "name": "Cyclic replacement (advanced)",
-      "time": null,
-      "space": null,
+      "time": "O(n)",
+      "space": "O(1)",
       "folder": "cyclic_replacement_(advanced)"
     }
   ],
-  "keyIdea": "Cyclic replacement"
+  "keyIdea": "Cyclic Replacement"
 }
