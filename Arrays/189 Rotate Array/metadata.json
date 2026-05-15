@@ -14,7 +14,7 @@
     "Two Pointers"
   ],
   "url": "https://leetcode.com/problems/rotate-array/",
-  "solvedAt": "2026-05-15T10:36:30.322Z",
+  "solvedAt": "2026-05-15T10:41:30.633Z",
   "approaches": [
     {
       "name": "Bruteforce single element shift",
@@ -27,6 +27,12 @@
       "time": "O(n)",
       "space": "O(n)",
       "folder": "using_extra_space_brute"
+    },
+    {
+      "name": "Using python pop and insert brute",
+      "time": "O(n*k)",
+      "space": "O(1)",
+      "folder": "using_python_pop_and_insert_brute"
     }
   ],
   "keyIdea": "Using extra space brute"
