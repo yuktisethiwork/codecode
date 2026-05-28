@@ -1,0 +1,25 @@
+{
+  "title": "40. Combination Sum II",
+  "platform": "leetcode",
+  "difficulty": "Medium",
+  "language": "python3",
+  "patterns": [
+    "Array",
+    "Backtracking"
+  ],
+  "tags": [
+    "Array",
+    "Backtracking"
+  ],
+  "url": "https://leetcode.com/problems/combination-sum-ii/",
+  "solvedAt": "2026-05-28T10:34:02.531Z",
+  "approaches": [
+    {
+      "name": "Recursion",
+      "time": "O(2^n)",
+      "space": "O(n)",
+      "folder": "recursion"
+    }
+  ],
+  "keyIdea": null
+}
