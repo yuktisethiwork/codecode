@@ -1,0 +1,25 @@
+{
+  "title": "39. Combination Sum",
+  "platform": "leetcode",
+  "difficulty": "Medium",
+  "language": "python3",
+  "patterns": [
+    "Array",
+    "Backtracking"
+  ],
+  "tags": [
+    "Array",
+    "Backtracking"
+  ],
+  "url": "https://leetcode.com/problems/combination-sum/submissions/2015366589/",
+  "solvedAt": "2026-05-28T10:07:10.693Z",
+  "approaches": [
+    {
+      "name": "Recursion",
+      "time": "O(2**n)",
+      "space": "O(n)",
+      "folder": "recursion"
+    }
+  ],
+  "keyIdea": "recursion"
+}
