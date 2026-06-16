@@ -1,0 +1,19 @@
+{
+  "title": "Permutations",
+  "platform": "leetcode",
+  "difficulty": "Unknown",
+  "language": "python3",
+  "patterns": [],
+  "tags": [],
+  "url": "https://leetcode.com/problems/permutations/submissions/2034980254/",
+  "solvedAt": "2026-06-16T09:44:04.627Z",
+  "approaches": [
+    {
+      "name": "Solution",
+      "time": null,
+      "space": null,
+      "folder": "solution"
+    }
+  ],
+  "keyIdea": "using a hashmap to check off the element already picked."
+}
