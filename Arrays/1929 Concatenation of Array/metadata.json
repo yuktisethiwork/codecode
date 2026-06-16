@@ -1,0 +1,25 @@
+{
+  "title": "1929. Concatenation of Array",
+  "platform": "leetcode",
+  "difficulty": "Easy",
+  "language": "python3",
+  "patterns": [
+    "Array",
+    "Simulation"
+  ],
+  "tags": [
+    "Array",
+    "Simulation"
+  ],
+  "url": "https://leetcode.com/problems/concatenation-of-array/",
+  "solvedAt": "2026-06-16T11:16:40.837Z",
+  "approaches": [
+    {
+      "name": "Solution",
+      "time": null,
+      "space": null,
+      "folder": "solution"
+    }
+  ],
+  "keyIdea": null
+}
