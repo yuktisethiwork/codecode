@@ -1,0 +1,27 @@
+{
+  "title": "90. Subsets II",
+  "platform": "leetcode",
+  "difficulty": "Medium",
+  "language": "python3",
+  "patterns": [
+    "Array",
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "tags": [
+    "Array",
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "url": "https://leetcode.com/problems/subsets-ii/",
+  "solvedAt": "2026-06-16T08:12:36.107Z",
+  "approaches": [
+    {
+      "name": "Solution",
+      "time": "O(2**n)",
+      "space": "O(n)",
+      "folder": "solution"
+    }
+  ],
+  "keyIdea": "recursion"
+}
