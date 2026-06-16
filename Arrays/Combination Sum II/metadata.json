@@ -1,0 +1,19 @@
+{
+  "title": "Combination Sum II",
+  "platform": "leetcode",
+  "difficulty": "Unknown",
+  "language": "python3",
+  "patterns": [],
+  "tags": [],
+  "url": "https://leetcode.com/problems/combination-sum-ii/submissions/2034811640/",
+  "solvedAt": "2026-06-16T07:06:41.238Z",
+  "approaches": [
+    {
+      "name": "Solution",
+      "time": "O(2**n)",
+      "space": "O(n)",
+      "folder": "solution"
+    }
+  ],
+  "keyIdea": "skip the duplicate element if it is not the parent recursion element."
+}
