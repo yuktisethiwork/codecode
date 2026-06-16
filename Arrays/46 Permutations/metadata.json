@@ -1,0 +1,25 @@
+{
+  "title": "46. Permutations",
+  "platform": "leetcode",
+  "difficulty": "Medium",
+  "language": "python3",
+  "patterns": [
+    "Array",
+    "Backtracking"
+  ],
+  "tags": [
+    "Array",
+    "Backtracking"
+  ],
+  "url": "https://leetcode.com/problems/permutations/",
+  "solvedAt": "2026-06-16T10:35:00.273Z",
+  "approaches": [
+    {
+      "name": "Solution",
+      "time": null,
+      "space": null,
+      "folder": "solution"
+    }
+  ],
+  "keyIdea": "Swap approach to save space. Only add on the leaves not on every node because we have not done all possible swaps on the node. And increment i. call the function by fixing i instead of k. k is just for swapping. "
+}
