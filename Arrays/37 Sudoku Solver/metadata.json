@@ -1,0 +1,30 @@
+{
+  "title": "37. Sudoku Solver",
+  "platform": "leetcode",
+  "difficulty": "Hard",
+  "language": "python3",
+  "patterns": [
+    "Array",
+    "Hash Table",
+    "Backtracking",
+    "Matrix",
+    "recursion"
+  ],
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Backtracking",
+    "Matrix"
+  ],
+  "url": "https://leetcode.com/problems/sudoku-solver/",
+  "solvedAt": "2026-06-17T08:11:22.377Z",
+  "approaches": [
+    {
+      "name": "Recursion time optimised",
+      "time": "O(9^m)",
+      "space": "O(m)",
+      "folder": "recursion_time_optimised"
+    }
+  ],
+  "keyIdea": "Optimise using sets and extra arrays."
+}
