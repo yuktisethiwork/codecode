@@ -1,0 +1,30 @@
+{
+  "title": "37. Sudoku Solver",
+  "platform": "leetcode",
+  "difficulty": "Hard",
+  "language": "python3",
+  "patterns": [
+    "Array",
+    "Hash Table",
+    "Backtracking",
+    "Matrix",
+    "Recursion"
+  ],
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Backtracking",
+    "Matrix"
+  ],
+  "url": "https://leetcode.com/problems/sudoku-solver/",
+  "solvedAt": "2026-06-17T07:59:59.269Z",
+  "approaches": [
+    {
+      "name": "Solution",
+      "time": "O(9^m)",
+      "space": "O(m)",
+      "folder": "solution"
+    }
+  ],
+  "keyIdea": "Recursion"
+}
