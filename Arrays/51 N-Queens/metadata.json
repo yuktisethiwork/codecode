@@ -1,0 +1,25 @@
+{
+  "title": "51. N-Queens",
+  "platform": "leetcode",
+  "difficulty": "Hard",
+  "language": "python3",
+  "patterns": [
+    "Array",
+    "Backtracking"
+  ],
+  "tags": [
+    "Array",
+    "Backtracking"
+  ],
+  "url": "https://leetcode.com/problems/n-queens/",
+  "solvedAt": "2026-06-17T06:20:51.407Z",
+  "approaches": [
+    {
+      "name": "Recursion",
+      "time": "O(n!*n)",
+      "space": "O(n**2)",
+      "folder": "recursion"
+    }
+  ],
+  "keyIdea": "Recursion and hashmap to maintain the state of the board in a given recursive call."
+}
