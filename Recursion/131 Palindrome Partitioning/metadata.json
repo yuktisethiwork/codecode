@@ -1,0 +1,28 @@
+{
+  "title": "131. Palindrome Partitioning",
+  "platform": "leetcode",
+  "difficulty": "Medium",
+  "language": "python3",
+  "patterns": [
+    "String",
+    "Dynamic Programming",
+    "Backtracking",
+    "Recursion"
+  ],
+  "tags": [
+    "String",
+    "Dynamic Programming",
+    "Backtracking"
+  ],
+  "url": "https://leetcode.com/problems/palindrome-partitioning/",
+  "solvedAt": "2026-06-18T06:34:58.650Z",
+  "approaches": [
+    {
+      "name": "Recursion",
+      "time": "o(2^n)",
+      "space": "O(n)",
+      "folder": "recursion"
+    }
+  ],
+  "keyIdea": "Use partitionidx array to store the partitions."
+}
