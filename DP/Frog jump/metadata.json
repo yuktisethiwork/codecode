@@ -6,13 +6,19 @@
   "patterns": [],
   "tags": [],
   "url": "https://www.naukri.com/code360/problems/frog-jump_3621012?leftPanelTabValue=SUBMISSION",
-  "solvedAt": "2026-06-22T10:20:34.710Z",
+  "solvedAt": "2026-06-22T10:24:54.230Z",
   "approaches": [
     {
       "name": "DP",
       "time": "O(n)",
       "space": "O(n)",
       "folder": "dp"
+    },
+    {
+      "name": "Approach 1",
+      "time": "O(n)",
+      "space": "O(1)",
+      "folder": "approach_1"
     }
   ],
   "keyIdea": null
