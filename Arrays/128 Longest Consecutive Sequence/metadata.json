@@ -1,0 +1,33 @@
+{
+  "title": "128. Longest Consecutive Sequence",
+  "platform": "leetcode",
+  "difficulty": "Medium",
+  "language": "python3",
+  "patterns": [
+    "Array",
+    "Hash Table",
+    "Union-Find"
+  ],
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Union-Find"
+  ],
+  "url": "https://leetcode.com/problems/longest-consecutive-sequence/",
+  "solvedAt": "2026-06-23T15:25:35.487Z",
+  "approaches": [
+    {
+      "name": "Solution",
+      "time": "O(n)",
+      "space": "O(1)",
+      "folder": "solution"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
