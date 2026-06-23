@@ -1,0 +1,33 @@
+{
+  "title": "53. Maximum Subarray",
+  "platform": "leetcode",
+  "difficulty": "Medium",
+  "language": "python3",
+  "patterns": [
+    "Array",
+    "Divide and Conquer",
+    "Dynamic Programming"
+  ],
+  "tags": [
+    "Array",
+    "Divide and Conquer",
+    "Dynamic Programming"
+  ],
+  "url": "https://leetcode.com/problems/maximum-subarray/",
+  "solvedAt": "2026-06-23T18:34:12.487Z",
+  "approaches": [
+    {
+      "name": "Kadane's algo",
+      "time": "O(n)",
+      "space": "O(1)",
+      "folder": "kadane's_algo"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
