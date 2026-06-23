@@ -1,0 +1,43 @@
+{
+  "title": "347. Top K Frequent Elements",
+  "platform": "leetcode",
+  "difficulty": "Medium",
+  "language": "python3",
+  "patterns": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Bucket Sort",
+    "Counting",
+    "Quickselect"
+  ],
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Bucket Sort",
+    "Counting",
+    "Quickselect"
+  ],
+  "url": "https://leetcode.com/problems/top-k-frequent-elements/",
+  "solvedAt": "2026-06-23T08:44:55.082Z",
+  "approaches": [
+    {
+      "name": "Hashmap",
+      "time": "O(n log n)",
+      "space": "O(n)",
+      "folder": "hashmap"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
