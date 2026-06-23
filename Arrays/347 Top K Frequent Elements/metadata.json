@@ -24,7 +24,7 @@
     "Quickselect"
   ],
   "url": "https://leetcode.com/problems/top-k-frequent-elements/",
-  "solvedAt": "2026-06-23T08:44:55.082Z",
+  "solvedAt": "2026-06-23T10:21:15.143Z",
   "approaches": [
     {
       "name": "Hashmap",
@@ -33,11 +33,17 @@
       "folder": "hashmap"
     },
     {
+      "name": "Heap",
+      "time": "O(mlogk)",
+      "space": "O(m+k)",
+      "folder": "heap"
+    },
+    {
       "name": "Approach 1",
       "time": null,
       "space": null,
       "folder": "approach_1"
     }
   ],
-  "keyIdea": null
+  "keyIdea": "heap"
 }

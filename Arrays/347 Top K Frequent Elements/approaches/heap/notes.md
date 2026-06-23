@@ -1,4 +1,4 @@
-# 347. Top K Frequent Elements — Approach 1
+# 347. Top K Frequent Elements — Heap
 
 | Field | Value |
 |-------|-------|
@@ -6,6 +6,8 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Medium |
 | **Language** | python3 |
+| **Time Complexity** | O(mlogk) |
+| **Space Complexity** | O(m+k) |
 | **Runtime** | 0 ms |
 | **Memory** | 19.3 MB |
 | **Patterns** | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
@@ -21,4 +23,4 @@ Pass the count dict into the heapq object and make it a min heap. (minimum eleme
 keep popping from the maxheap if length increases k.
 then append the elements from the min heap to a result. since the heap contains tuples of frequency and number.
 
-**Code:** [`approach_1.py`](./approach_1.py)
+**Code:** [`heap.py`](./heap.py)
