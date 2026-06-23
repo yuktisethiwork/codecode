@@ -1,0 +1,31 @@
+{
+  "title": "238. Product of Array Except Self",
+  "platform": "leetcode",
+  "difficulty": "Medium",
+  "language": "python3",
+  "patterns": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "tags": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "url": "https://leetcode.com/problems/product-of-array-except-self/",
+  "solvedAt": "2026-06-23T10:54:43.901Z",
+  "approaches": [
+    {
+      "name": "Prefix and postfix array",
+      "time": "O(n)",
+      "space": "O(n)",
+      "folder": "prefix_and_postfix_array"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
