@@ -12,13 +12,19 @@
     "Prefix Sum"
   ],
   "url": "https://leetcode.com/problems/product-of-array-except-self/",
-  "solvedAt": "2026-06-23T10:54:43.901Z",
+  "solvedAt": "2026-06-23T11:01:27.221Z",
   "approaches": [
     {
       "name": "Prefix and postfix array",
       "time": "O(n)",
       "space": "O(n)",
       "folder": "prefix_and_postfix_array"
+    },
+    {
+      "name": "Prefix and postfix no extra space",
+      "time": "O(n)",
+      "space": "O(1)",
+      "folder": "prefix_and_postfix_no_extra_space"
     },
     {
       "name": "Approach 1",

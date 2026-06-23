@@ -1,4 +1,4 @@
-# 238. Product of Array Except Self — Approach 1
+# 238. Product of Array Except Self — Prefix and postfix no extra space
 
 | Field | Value |
 |-------|-------|
@@ -6,6 +6,8 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Medium |
 | **Language** | python3 |
+| **Time Complexity** | O(n) |
+| **Space Complexity** | O(1) |
 | **Runtime** | 0 ms |
 | **Memory** | 19.4 MB |
 | **Patterns** | Array, Prefix Sum |
@@ -13,4 +15,4 @@
 
 ---
 
-**Code:** [`approach_1.py`](./approach_1.py)
+**Code:** [`prefix_and_postfix_no_extra_space.py`](./prefix_and_postfix_no_extra_space.py)
