@@ -1,0 +1,33 @@
+{
+  "title": "15. 3Sum",
+  "platform": "leetcode",
+  "difficulty": "Medium",
+  "language": "python3",
+  "patterns": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "url": "https://leetcode.com/problems/3sum/",
+  "solvedAt": "2026-06-25T06:49:09.044Z",
+  "approaches": [
+    {
+      "name": "Solution",
+      "time": "O(n^2)",
+      "space": "O(n)",
+      "folder": "solution"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
