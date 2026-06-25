@@ -1,4 +1,4 @@
-# 206. Reverse Linked List — Approach 1
+# 206. Reverse Linked List — Iterative
 
 | Field | Value |
 |-------|-------|
@@ -16,4 +16,4 @@
 ## 🧠 How I Solved It
 2 pointer
 
-**Code:** [`approach_1.py`](./approach_1.py)
+**Code:** [`iterative.py`](./iterative.py)

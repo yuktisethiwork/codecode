@@ -11,14 +11,20 @@
     "Linked List",
     "Recursion"
   ],
-  "url": "https://leetcode.com/problems/reverse-linked-list/submissions/2045445362/",
-  "solvedAt": "2026-06-25T06:58:32.156Z",
+  "url": "https://leetcode.com/problems/reverse-linked-list/",
+  "solvedAt": "2026-06-25T07:06:44.460Z",
   "approaches": [
     {
       "name": "Solution",
       "time": null,
       "space": null,
       "folder": "solution"
+    },
+    {
+      "name": "Iterative",
+      "time": null,
+      "space": null,
+      "folder": "iterative"
     },
     {
       "name": "Approach 1",
