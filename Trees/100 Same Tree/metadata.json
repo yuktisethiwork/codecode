@@ -1,0 +1,35 @@
+{
+  "title": "100. Same Tree",
+  "platform": "leetcode",
+  "difficulty": "Easy",
+  "language": "python3",
+  "patterns": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "url": "https://leetcode.com/problems/same-tree/",
+  "solvedAt": "2026-06-26T11:37:25.934Z",
+  "approaches": [
+    {
+      "name": "Recursive",
+      "time": "O(n)",
+      "space": "O(n)",
+      "folder": "recursive"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
