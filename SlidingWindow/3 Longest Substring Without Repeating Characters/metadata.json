@@ -1,0 +1,33 @@
+{
+  "title": "3. Longest Substring Without Repeating Characters",
+  "platform": "leetcode",
+  "difficulty": "Medium",
+  "language": "python3",
+  "patterns": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "tags": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+  "solvedAt": "2026-06-26T09:13:43.637Z",
+  "approaches": [
+    {
+      "name": "Solution",
+      "time": "O(n)",
+      "space": "O(n)",
+      "folder": "solution"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": "use set"
+}
