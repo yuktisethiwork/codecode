@@ -1,0 +1,33 @@
+{
+  "title": "11. Container With Most Water",
+  "platform": "leetcode",
+  "difficulty": "Medium",
+  "language": "python3",
+  "patterns": [
+    "Array",
+    "Two Pointers",
+    "Greedy"
+  ],
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Greedy"
+  ],
+  "url": "https://leetcode.com/problems/container-with-most-water/",
+  "solvedAt": "2026-06-26T08:33:22.070Z",
+  "approaches": [
+    {
+      "name": "Solution",
+      "time": "O(n)",
+      "space": "O(1)",
+      "folder": "solution"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
