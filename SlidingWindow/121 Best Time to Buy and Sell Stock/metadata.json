@@ -1,0 +1,31 @@
+{
+  "title": "121. Best Time to Buy and Sell Stock",
+  "platform": "leetcode",
+  "difficulty": "Easy",
+  "language": "python3",
+  "patterns": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "tags": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2046609796/",
+  "solvedAt": "2026-06-26T08:46:56.367Z",
+  "approaches": [
+    {
+      "name": "Solution",
+      "time": "O(n)",
+      "space": "O(1)",
+      "folder": "solution"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
