@@ -16,13 +16,19 @@
     "Binary Tree"
   ],
   "url": "https://leetcode.com/problems/invert-binary-tree/",
-  "solvedAt": "2026-06-26T09:57:25.260Z",
+  "solvedAt": "2026-06-26T10:19:55.991Z",
   "approaches": [
     {
       "name": "Recursive DFS",
       "time": "O(n)",
       "space": "O(1)",
       "folder": "recursive_dfs"
+    },
+    {
+      "name": "Iterative bfs",
+      "time": "O(n)",
+      "space": "O(1)",
+      "folder": "iterative_bfs"
     },
     {
       "name": "Approach 1",
