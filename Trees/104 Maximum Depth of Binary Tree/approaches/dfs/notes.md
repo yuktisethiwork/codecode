@@ -1,4 +1,4 @@
-# 104. Maximum Depth of Binary Tree — Approach 1
+# 104. Maximum Depth of Binary Tree — DFS
 
 | Field | Value |
 |-------|-------|
@@ -6,6 +6,8 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | python3 |
+| **Time Complexity** | O(n) |
+| **Space Complexity** | O(n) |
 | **Runtime** | 0 ms |
 | **Memory** | 19.3 MB |
 | **Patterns** | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
@@ -13,4 +15,4 @@
 
 ---
 
-**Code:** [`approach_1.py`](./approach_1.py)
+**Code:** [`dfs.py`](./dfs.py)

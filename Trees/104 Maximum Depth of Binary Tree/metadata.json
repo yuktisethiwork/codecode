@@ -16,13 +16,19 @@
     "Binary Tree"
   ],
   "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
-  "solvedAt": "2026-06-26T10:25:22.563Z",
+  "solvedAt": "2026-06-26T10:27:51.493Z",
   "approaches": [
     {
       "name": "Level order traversal BFS Iterative.",
       "time": "O(N)",
       "space": "O(N)",
       "folder": "level_order_traversal_bfs_iterative."
+    },
+    {
+      "name": "DFS",
+      "time": "O(n)",
+      "space": "O(n)",
+      "folder": "dfs"
     },
     {
       "name": "Approach 1",
