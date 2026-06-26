@@ -1,0 +1,28 @@
+# Problem: 104. Maximum Depth of Binary Tree
+# Approach: Level order traversal BFS Iterative.
+# Language: python3
+# Time: O(N)
+# Space: O(N)
+
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def maxDepth(self, root: Optional[TreeNode]) -> int:
+        from collections import deque
+        if not root:
+            return 0
+        q=deque([root])
+        depth=1
+        while q:
+            depth+=1
+            for _ in range(len(q)):
+                node=q.popleft()
+                if node.left:
+                    q.append(node.left)
+                if node.right:
+                    q.append(node.right)
+        return depth
