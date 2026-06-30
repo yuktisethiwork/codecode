@@ -1,0 +1,35 @@
+{
+  "title": "146. LRU Cache",
+  "platform": "leetcode",
+  "difficulty": "Medium",
+  "language": "python3",
+  "patterns": [
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Doubly-Linked List"
+  ],
+  "tags": [
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Doubly-Linked List"
+  ],
+  "url": "https://leetcode.com/problems/lru-cache/",
+  "solvedAt": "2026-06-30T10:02:11.911Z",
+  "approaches": [
+    {
+      "name": "Optimised Doubly linkedlist + hashmap",
+      "time": "O(1)",
+      "space": "O(n)",
+      "folder": "optimised_doubly_linkedlist_+_hashmap"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
