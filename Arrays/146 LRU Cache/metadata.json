@@ -16,13 +16,19 @@
     "Doubly-Linked List"
   ],
   "url": "https://leetcode.com/problems/lru-cache/",
-  "solvedAt": "2026-06-30T08:31:24.895Z",
+  "solvedAt": "2026-06-30T09:39:13.251Z",
   "approaches": [
     {
       "name": "Bruteforce",
       "time": "O(n)",
       "space": "O(1)",
       "folder": "bruteforce"
+    },
+    {
+      "name": "Using heap",
+      "time": "O(logn)",
+      "space": "O(n)",
+      "folder": "using_heap"
     },
     {
       "name": "Approach 1",

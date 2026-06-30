@@ -1,4 +1,4 @@
-# 146. LRU Cache — Approach 1
+# 146. LRU Cache — Using heap
 
 | Field | Value |
 |-------|-------|
@@ -6,6 +6,8 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Medium |
 | **Language** | python3 |
+| **Time Complexity** | O(logn) |
+| **Space Complexity** | O(n) |
 | **Runtime** | 0 ms |
 | **Memory** | 19.5 MB |
 | **Patterns** | Hash Table, Linked List, Design, Doubly-Linked List |
@@ -13,4 +15,4 @@
 
 ---
 
-**Code:** [`approach_1.py`](./approach_1.py)
+**Code:** [`using_heap.py`](./using_heap.py)
