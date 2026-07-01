@@ -1,0 +1,33 @@
+{
+  "title": "76. Minimum Window Substring",
+  "platform": "leetcode",
+  "difficulty": "Hard",
+  "language": "python3",
+  "patterns": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "tags": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "url": "https://leetcode.com/problems/minimum-window-substring/",
+  "solvedAt": "2026-07-01T08:44:23.557Z",
+  "approaches": [
+    {
+      "name": "Optimised have and need approach",
+      "time": "O(n)",
+      "space": "O(n)",
+      "folder": "optimised_have_and_need_approach"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
