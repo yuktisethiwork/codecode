@@ -1,0 +1,33 @@
+{
+  "title": "424. Longest Repeating Character Replacement",
+  "platform": "leetcode",
+  "difficulty": "Medium",
+  "language": "python3",
+  "patterns": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "tags": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "url": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+  "solvedAt": "2026-07-01T08:03:07.147Z",
+  "approaches": [
+    {
+      "name": "sliding window with dict",
+      "time": "O(26*n)",
+      "space": "O(26*n)",
+      "folder": "sliding_window_with_dict"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
