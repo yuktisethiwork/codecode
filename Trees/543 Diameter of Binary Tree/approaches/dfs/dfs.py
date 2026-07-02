@@ -1,0 +1,24 @@
+# Problem: 543. Diameter of Binary Tree
+# Approach: DFS
+# Language: python3
+# Time: O(n)
+# Space: O(n)
+
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
+        self.diam=0
+        def height(root):
+            if not root:
+                return 0
+            left=height(root.left)
+            right=height(root.right)
+            self.diam=max(self.diam,left+right)
+            return (1+max(left,right))
+        height(root)
+        return self.diam
