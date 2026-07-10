@@ -1,0 +1,31 @@
+{
+  "title": "1929. Concatenation of Array",
+  "platform": "leetcode",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "patterns": [
+    "Array",
+    "Simulation"
+  ],
+  "tags": [
+    "Array",
+    "Simulation"
+  ],
+  "url": "https://leetcode.com/problems/concatenation-of-array/",
+  "solvedAt": "2026-07-10T10:31:01.619Z",
+  "approaches": [
+    {
+      "name": "Solution",
+      "time": null,
+      "space": null,
+      "folder": "solution"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
