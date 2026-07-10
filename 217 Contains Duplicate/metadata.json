@@ -1,0 +1,33 @@
+{
+  "title": "217. Contains Duplicate",
+  "platform": "leetcode",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "patterns": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "url": "https://leetcode.com/problems/contains-duplicate/",
+  "solvedAt": "2026-07-10T10:26:53.646Z",
+  "approaches": [
+    {
+      "name": "Solution",
+      "time": null,
+      "space": null,
+      "folder": "solution"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
