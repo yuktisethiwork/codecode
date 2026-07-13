@@ -1,0 +1,33 @@
+{
+  "title": "242. Valid Anagram",
+  "platform": "leetcode",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "patterns": [
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "tags": [
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "url": "https://leetcode.com/problems/valid-anagram/",
+  "solvedAt": "2026-07-13T14:34:55.636Z",
+  "approaches": [
+    {
+      "name": "Solution",
+      "time": null,
+      "space": null,
+      "folder": "solution"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
