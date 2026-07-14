@@ -1,0 +1,33 @@
+{
+  "title": "14. Longest Common Prefix",
+  "platform": "leetcode",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "patterns": [
+    "Array",
+    "String",
+    "Trie"
+  ],
+  "tags": [
+    "Array",
+    "String",
+    "Trie"
+  ],
+  "url": "https://leetcode.com/problems/longest-common-prefix/",
+  "solvedAt": "2026-07-14T09:41:49.317Z",
+  "approaches": [
+    {
+      "name": "Solution",
+      "time": null,
+      "space": null,
+      "folder": "solution"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
