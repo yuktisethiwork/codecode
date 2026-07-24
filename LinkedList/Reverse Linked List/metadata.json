@@ -1,0 +1,25 @@
+{
+  "title": "Reverse Linked List",
+  "platform": "leetcode",
+  "difficulty": "Unknown",
+  "language": "cpp",
+  "patterns": [],
+  "tags": [],
+  "url": "https://leetcode.com/problems/reverse-linked-list/submissions/2079321758/",
+  "solvedAt": "2026-07-24T08:26:46.244Z",
+  "approaches": [
+    {
+      "name": "Iterative",
+      "time": "O(n)",
+      "space": "O(1)",
+      "folder": "iterative"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
