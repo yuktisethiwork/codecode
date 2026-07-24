@@ -1,4 +1,4 @@
-# 206. Reverse Linked List — Approach 1
+# 206. Reverse Linked List — Recursive
 
 | Field | Value |
 |-------|-------|
@@ -6,6 +6,8 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | cpp |
+| **Time Complexity** | O(n) |
+| **Space Complexity** | O(n) |
 | **Runtime** | 0 ms |
 | **Memory** | 13.6 MB |
 | **Patterns** | Linked List, Recursion |
@@ -13,4 +15,4 @@
 
 ---
 
-**Code:** [`approach_1.cpp`](./approach_1.cpp)
+**Code:** [`recursive.cpp`](./recursive.cpp)

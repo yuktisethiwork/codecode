@@ -2,7 +2,7 @@
   "title": "206. Reverse Linked List",
   "platform": "leetcode",
   "difficulty": "Easy",
-  "language": "python3",
+  "language": "cpp",
   "patterns": [
     "Linked List",
     "Recursion"
@@ -11,8 +11,8 @@
     "Linked List",
     "Recursion"
   ],
-  "url": "https://leetcode.com/problems/reverse-linked-list/",
-  "solvedAt": "2026-06-25T07:06:44.460Z",
+  "url": "https://leetcode.com/problems/reverse-linked-list/submissions/2079327154/",
+  "solvedAt": "2026-07-24T08:32:32.114Z",
   "approaches": [
     {
       "name": "Solution",
@@ -25,6 +25,12 @@
       "time": null,
       "space": null,
       "folder": "iterative"
+    },
+    {
+      "name": "Recursive",
+      "time": "O(n)",
+      "space": "O(n)",
+      "folder": "recursive"
     },
     {
       "name": "Approach 1",
