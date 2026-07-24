@@ -2,7 +2,7 @@
   "title": "226. Invert Binary Tree",
   "platform": "leetcode",
   "difficulty": "Easy",
-  "language": "python3",
+  "language": "cpp",
   "patterns": [
     "Tree",
     "Depth-First Search",
@@ -16,7 +16,7 @@
     "Binary Tree"
   ],
   "url": "https://leetcode.com/problems/invert-binary-tree/",
-  "solvedAt": "2026-06-26T10:19:55.991Z",
+  "solvedAt": "2026-07-24T09:51:51.171Z",
   "approaches": [
     {
       "name": "Recursive DFS",
@@ -29,6 +29,12 @@
       "time": "O(n)",
       "space": "O(1)",
       "folder": "iterative_bfs"
+    },
+    {
+      "name": "Solution",
+      "time": "O(n)",
+      "space": "O(h)",
+      "folder": "solution"
     },
     {
       "name": "Approach 1",
