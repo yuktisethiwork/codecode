@@ -1,0 +1,37 @@
+{
+  "title": "705. Design HashSet",
+  "platform": "leetcode",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "patterns": [
+    "Array",
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Hash Function"
+  ],
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Hash Function"
+  ],
+  "url": "https://leetcode.com/problems/design-hashset/",
+  "solvedAt": "2026-07-24T08:35:44.146Z",
+  "approaches": [
+    {
+      "name": "basic addressing using array/vector",
+      "time": null,
+      "space": null,
+      "folder": "basic_addressing_using_array/vector"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
