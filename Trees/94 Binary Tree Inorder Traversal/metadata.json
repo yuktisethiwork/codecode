@@ -1,0 +1,35 @@
+{
+  "title": "94. Binary Tree Inorder Traversal",
+  "platform": "leetcode",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "patterns": [
+    "Stack",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "tags": [
+    "Stack",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+  "solvedAt": "2026-07-24T09:29:02.522Z",
+  "approaches": [
+    {
+      "name": "recursive",
+      "time": "O(n)",
+      "space": null,
+      "folder": "recursive"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
