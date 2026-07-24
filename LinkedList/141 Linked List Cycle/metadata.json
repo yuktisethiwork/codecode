@@ -1,0 +1,33 @@
+{
+  "title": "141. Linked List Cycle",
+  "platform": "leetcode",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "patterns": [
+    "Hash Table",
+    "Linked List",
+    "Two Pointers"
+  ],
+  "tags": [
+    "Hash Table",
+    "Linked List",
+    "Two Pointers"
+  ],
+  "url": "https://leetcode.com/problems/linked-list-cycle/",
+  "solvedAt": "2026-07-24T09:05:16.128Z",
+  "approaches": [
+    {
+      "name": "Solution",
+      "time": null,
+      "space": null,
+      "folder": "solution"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
