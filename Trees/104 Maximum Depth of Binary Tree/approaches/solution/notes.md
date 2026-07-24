@@ -1,4 +1,4 @@
-# 104. Maximum Depth of Binary Tree — Approach 1
+# 104. Maximum Depth of Binary Tree — Solution
 
 | Field | Value |
 |-------|-------|
@@ -6,6 +6,8 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | cpp |
+| **Time Complexity** | O(n) |
+| **Space Complexity** | O(h) |
 | **Runtime** | 0 ms |
 | **Memory** | 8.3 MB |
 | **Patterns** | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
@@ -13,4 +15,4 @@
 
 ---
 
-**Code:** [`approach_1.cpp`](./approach_1.cpp)
+**Code:** [`solution.cpp`](./solution.cpp)
