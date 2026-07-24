@@ -1,4 +1,4 @@
-# 543. Diameter of Binary Tree — Approach 1
+# 543. Diameter of Binary Tree — Solution
 
 | Field | Value |
 |-------|-------|
@@ -13,4 +13,4 @@
 
 ---
 
-**Code:** [`approach_1.cpp`](./approach_1.cpp)
+**Code:** [`solution.cpp`](./solution.cpp)
