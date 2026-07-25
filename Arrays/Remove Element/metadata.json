@@ -1,0 +1,25 @@
+{
+  "title": "Remove Element",
+  "platform": "leetcode",
+  "difficulty": "Unknown",
+  "language": "cpp",
+  "patterns": [],
+  "tags": [],
+  "url": "https://leetcode.com/problems/remove-element/submissions/2080441973/",
+  "solvedAt": "2026-07-25T07:32:11.190Z",
+  "approaches": [
+    {
+      "name": "Solution",
+      "time": "O(n)",
+      "space": "O(1)",
+      "folder": "solution"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
