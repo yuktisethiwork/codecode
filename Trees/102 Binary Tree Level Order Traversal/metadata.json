@@ -2,7 +2,7 @@
   "title": "102. Binary Tree Level Order Traversal",
   "platform": "leetcode",
   "difficulty": "Medium",
-  "language": "python3",
+  "language": "cpp",
   "patterns": [
     "Tree",
     "Breadth-First Search",
@@ -14,13 +14,19 @@
     "Binary Tree"
   ],
   "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
-  "solvedAt": "2026-06-26T11:55:55.418Z",
+  "solvedAt": "2026-07-25T11:51:17.145Z",
   "approaches": [
     {
       "name": "Iterative BFS",
       "time": "O(n)",
       "space": "O(n)",
       "folder": "iterative_bfs"
+    },
+    {
+      "name": "BFS",
+      "time": "O(n)",
+      "space": "O(n)",
+      "folder": "bfs"
     },
     {
       "name": "Approach 1",

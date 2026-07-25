@@ -1,4 +1,4 @@
-# 102. Binary Tree Level Order Traversal — Approach 1
+# 102. Binary Tree Level Order Traversal — BFS
 
 | Field | Value |
 |-------|-------|
@@ -6,6 +6,8 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Medium |
 | **Language** | cpp |
+| **Time Complexity** | O(n) |
+| **Space Complexity** | O(n) |
 | **Runtime** | 0 ms |
 | **Memory** | 8.4 MB |
 | **Patterns** | Tree, Breadth-First Search, Binary Tree |
@@ -16,4 +18,4 @@
 ## 🧠 How I Solved It
 the number of elements in the queue are all at one level so store size and then pop all of them in the level array, 2 loops. one for level and then one for the overall traversal.
 
-**Code:** [`approach_1.cpp`](./approach_1.cpp)
+**Code:** [`bfs.cpp`](./bfs.cpp)
