@@ -1,0 +1,35 @@
+{
+  "title": "235. Lowest Common Ancestor of a Binary Search Tree",
+  "platform": "leetcode",
+  "difficulty": "Medium",
+  "language": "cpp",
+  "patterns": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+  "solvedAt": "2026-07-25T11:12:49.401Z",
+  "approaches": [
+    {
+      "name": "Recursive",
+      "time": "O(logn)",
+      "space": "O(h)",
+      "folder": "recursive"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
