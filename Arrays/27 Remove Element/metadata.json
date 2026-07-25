@@ -1,0 +1,31 @@
+{
+  "title": "27. Remove Element",
+  "platform": "leetcode",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "patterns": [
+    "Array",
+    "Two Pointers"
+  ],
+  "tags": [
+    "Array",
+    "Two Pointers"
+  ],
+  "url": "https://leetcode.com/problems/remove-element/",
+  "solvedAt": "2026-07-25T08:21:05.849Z",
+  "approaches": [
+    {
+      "name": "2 ptr solution",
+      "time": "O(n)",
+      "space": "O(1)",
+      "folder": "2_ptr_solution"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
