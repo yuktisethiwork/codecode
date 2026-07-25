@@ -1,4 +1,4 @@
-# 235. Lowest Common Ancestor of a Binary Search Tree — Approach 1
+# 235. Lowest Common Ancestor of a Binary Search Tree — Iterative
 
 | Field | Value |
 |-------|-------|
@@ -6,6 +6,8 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Medium |
 | **Language** | cpp |
+| **Time Complexity** | O(log n) |
+| **Space Complexity** | O(log n) |
 | **Runtime** | 0 ms |
 | **Memory** | 8.3 MB |
 | **Patterns** | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
@@ -13,4 +15,4 @@
 
 ---
 
-**Code:** [`approach_1.cpp`](./approach_1.cpp)
+**Code:** [`iterative.cpp`](./iterative.cpp)

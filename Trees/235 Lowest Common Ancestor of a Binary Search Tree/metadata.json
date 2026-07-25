@@ -16,13 +16,19 @@
     "Binary Tree"
   ],
   "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
-  "solvedAt": "2026-07-25T11:12:49.401Z",
+  "solvedAt": "2026-07-25T11:33:02.020Z",
   "approaches": [
     {
       "name": "Recursive",
       "time": "O(logn)",
       "space": "O(h)",
       "folder": "recursive"
+    },
+    {
+      "name": "Iterative",
+      "time": "O(log n)",
+      "space": "O(log n)",
+      "folder": "iterative"
     },
     {
       "name": "Approach 1",
