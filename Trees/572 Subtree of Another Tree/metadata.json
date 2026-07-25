@@ -1,0 +1,37 @@
+{
+  "title": "572. Subtree of Another Tree",
+  "platform": "leetcode",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "patterns": [
+    "Tree",
+    "Depth-First Search",
+    "String Matching",
+    "Binary Tree",
+    "Hash Function"
+  ],
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "String Matching",
+    "Binary Tree",
+    "Hash Function"
+  ],
+  "url": "https://leetcode.com/problems/subtree-of-another-tree/",
+  "solvedAt": "2026-07-25T10:37:04.372Z",
+  "approaches": [
+    {
+      "name": "Solution",
+      "time": "O(n^2)",
+      "space": "O(h)",
+      "folder": "solution"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
