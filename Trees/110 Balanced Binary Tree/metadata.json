@@ -1,0 +1,33 @@
+{
+  "title": "110. Balanced Binary Tree",
+  "platform": "leetcode",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "patterns": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "url": "https://leetcode.com/problems/balanced-binary-tree/",
+  "solvedAt": "2026-07-25T06:58:14.369Z",
+  "approaches": [
+    {
+      "name": "Bruteforce",
+      "time": "O(n^2)",
+      "space": "O(h)",
+      "folder": "bruteforce"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
