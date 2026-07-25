@@ -14,13 +14,19 @@
     "Binary Tree"
   ],
   "url": "https://leetcode.com/problems/balanced-binary-tree/",
-  "solvedAt": "2026-07-25T06:58:14.369Z",
+  "solvedAt": "2026-07-25T07:04:04.613Z",
   "approaches": [
     {
       "name": "Bruteforce",
       "time": "O(n^2)",
       "space": "O(h)",
       "folder": "bruteforce"
+    },
+    {
+      "name": "Optimal",
+      "time": "O(n)",
+      "space": "O(h)",
+      "folder": "optimal"
     },
     {
       "name": "Approach 1",

@@ -1,4 +1,4 @@
-# 110. Balanced Binary Tree — Approach 1
+# 110. Balanced Binary Tree — Optimal
 
 | Field | Value |
 |-------|-------|
@@ -6,6 +6,8 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | cpp |
+| **Time Complexity** | O(n) |
+| **Space Complexity** | O(h) |
 | **Runtime** | 0 ms |
 | **Memory** | 8.2 MB |
 | **Patterns** | Tree, Depth-First Search, Binary Tree |
@@ -16,4 +18,4 @@
 ## 🧠 How I Solved It
 Checking balance along with height calculation. We return early if left or right subtree returned -1 in case of absolute height being greater than -1.
 
-**Code:** [`approach_1.cpp`](./approach_1.cpp)
+**Code:** [`optimal.cpp`](./optimal.cpp)
