@@ -1,0 +1,35 @@
+{
+  "title": "98. Validate Binary Search Tree",
+  "platform": "leetcode",
+  "difficulty": "Medium",
+  "language": "cpp",
+  "patterns": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "url": "https://leetcode.com/problems/validate-binary-search-tree/",
+  "solvedAt": "2026-07-25T19:20:18.131Z",
+  "approaches": [
+    {
+      "name": "Solution",
+      "time": "O(n)",
+      "space": "0(n)",
+      "folder": "solution"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
