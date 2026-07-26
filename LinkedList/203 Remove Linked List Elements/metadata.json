@@ -1,0 +1,31 @@
+{
+  "title": "203. Remove Linked List Elements",
+  "platform": "leetcode",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "patterns": [
+    "Linked List",
+    "Recursion"
+  ],
+  "tags": [
+    "Linked List",
+    "Recursion"
+  ],
+  "url": "https://leetcode.com/problems/remove-linked-list-elements/",
+  "solvedAt": "2026-07-26T10:19:30.616Z",
+  "approaches": [
+    {
+      "name": "Solution",
+      "time": "O(n)",
+      "space": "O(1)",
+      "folder": "solution"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
