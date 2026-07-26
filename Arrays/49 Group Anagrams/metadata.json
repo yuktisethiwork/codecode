@@ -1,0 +1,35 @@
+{
+  "title": "49. Group Anagrams",
+  "platform": "leetcode",
+  "difficulty": "Medium",
+  "language": "cpp",
+  "patterns": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "tags": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "url": "https://leetcode.com/problems/group-anagrams/",
+  "solvedAt": "2026-07-26T07:45:23.803Z",
+  "approaches": [
+    {
+      "name": "Solution",
+      "time": "O(n*k)",
+      "space": "O(n)",
+      "folder": "solution"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
