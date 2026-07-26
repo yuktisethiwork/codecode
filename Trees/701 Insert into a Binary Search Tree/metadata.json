@@ -1,0 +1,33 @@
+{
+  "title": "701. Insert into a Binary Search Tree",
+  "platform": "leetcode",
+  "difficulty": "Medium",
+  "language": "cpp",
+  "patterns": [
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "tags": [
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "url": "https://leetcode.com/problems/insert-into-a-binary-search-tree/",
+  "solvedAt": "2026-07-26T09:53:13.730Z",
+  "approaches": [
+    {
+      "name": "Recursive",
+      "time": "O(n)",
+      "space": "O(n)",
+      "folder": "recursive"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
