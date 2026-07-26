@@ -1,4 +1,4 @@
-# 49. Group Anagrams — Approach 1
+# 49. Group Anagrams — Sorting approach
 
 | Field | Value |
 |-------|-------|
@@ -6,6 +6,8 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Medium |
 | **Language** | cpp |
+| **Time Complexity** | O(n*k*logk) |
+| **Space Complexity** | O(n) |
 | **Runtime** | 0 ms |
 | **Memory** | 8.6 MB |
 | **Patterns** | Array, Hash Table, String, Sorting |
@@ -16,4 +18,4 @@
 ## 🧠 How I Solved It
 Sorting approach
 
-**Code:** [`approach_1.cpp`](./approach_1.cpp)
+**Code:** [`sorting_approach.cpp`](./sorting_approach.cpp)

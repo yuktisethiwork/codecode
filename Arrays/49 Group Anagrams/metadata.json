@@ -16,13 +16,19 @@
     "Sorting"
   ],
   "url": "https://leetcode.com/problems/group-anagrams/",
-  "solvedAt": "2026-07-26T07:45:23.803Z",
+  "solvedAt": "2026-07-26T07:49:51.714Z",
   "approaches": [
     {
       "name": "Solution",
       "time": "O(n*k)",
       "space": "O(n)",
       "folder": "solution"
+    },
+    {
+      "name": "Sorting approach",
+      "time": "O(n*k*logk)",
+      "space": "O(n)",
+      "folder": "sorting_approach"
     },
     {
       "name": "Approach 1",
