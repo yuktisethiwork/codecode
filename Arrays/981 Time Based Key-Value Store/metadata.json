@@ -1,0 +1,35 @@
+{
+  "title": "981. Time Based Key-Value Store",
+  "platform": "leetcode",
+  "difficulty": "Medium",
+  "language": "cpp",
+  "patterns": [
+    "Hash Table",
+    "String",
+    "Binary Search",
+    "Design"
+  ],
+  "tags": [
+    "Hash Table",
+    "String",
+    "Binary Search",
+    "Design"
+  ],
+  "url": "https://leetcode.com/problems/time-based-key-value-store/",
+  "solvedAt": "2026-07-27T11:29:33.836Z",
+  "approaches": [
+    {
+      "name": "Solution",
+      "time": "O(logn",
+      "space": null,
+      "folder": "solution"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
