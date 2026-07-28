@@ -1,0 +1,25 @@
+{
+  "title": "Delete Node in a BST",
+  "platform": "leetcode",
+  "difficulty": "Unknown",
+  "language": "cpp",
+  "patterns": [],
+  "tags": [],
+  "url": "https://leetcode.com/problems/delete-node-in-a-bst/submissions/2084720741/",
+  "solvedAt": "2026-07-28T12:16:23.190Z",
+  "approaches": [
+    {
+      "name": "Solution",
+      "time": "O(n)",
+      "space": null,
+      "folder": "solution"
+    },
+    {
+      "name": "Approach 1",
+      "time": null,
+      "space": null,
+      "folder": "approach_1"
+    }
+  ],
+  "keyIdea": null
+}
